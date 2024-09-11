@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'bookstack'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_17BCFCDD1A6A404594A426C62D6D44A6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B9E2E8074E2847339A0D82CDFD1C9A94 }}
           package: .
