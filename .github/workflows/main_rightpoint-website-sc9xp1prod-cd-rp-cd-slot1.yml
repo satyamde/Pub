@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'rightpoint-website-sc9xp1prod-cd-rp-cd-slot1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3EA16FD9051D4C79BE2A8DEFB4C3AF8C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C29541490C9D486D95DC539627CECCAC }}
           package: .
